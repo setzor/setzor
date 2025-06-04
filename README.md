@@ -1,16 +1,15 @@
-### Hi there 👋
+# Setzor
 
-<!--
-**setzor/setzor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+This repository contains a minimal Python project with a simple command line
+interface.
 
-Here are some ideas to get you started:
+## Usage
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Install the package in editable mode and run the CLI:
+
+```bash
+pip install -e .
+setzor
+```
+
+Running `setzor` will print a short greeting.
