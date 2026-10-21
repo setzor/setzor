@@ -46,9 +46,8 @@ i make small, cozy tools — the kind that feel like a warm mug on a cold night.
 <img src="https://github-readme-stats.vercel.app/api?username=setzor&show_icons=true&count_private=true&hide_border=true&bg_color=1B1630&title_color=FFD97D&text_color=F2E9D8&icon_color=FF9F68&custom_title=adventurer%27s%20log" height="165" alt="github stats" />
 <img src="https://streak-stats.demolab.com?user=setzor&hide_border=true&background=1B1630&ring=FFD97D&fire=FF9F68&currStreakNum=F2E9D8&sideNums=F2E9D8&currStreakLabel=FFD97D&sideLabels=9F8AA8&dates=F2E9D8" height="165" alt="streak stats" />
 </p>
-<p>
+<p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=setzor&layout=compact&hide_border=true&bg_color=1B1630&title_color=FFD97D&text_color=F2E9D8&langs_count=8" height="165" alt="top languages" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=setzor&bg_color=1B1630&color=F2E9D8&line=FFD97D&point=FF9F68&area=true&area_color=3A2B4D&hide_border=true" width="57%" alt="activity graph" />
 </p>
 
 ---
