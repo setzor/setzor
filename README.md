@@ -55,7 +55,11 @@ i make small, cozy tools — the kind that feel like a warm mug on a cold night.
 
 ## 🐍 the contribution snake
 
-<img src="assets/github-contribution-grid-snake.svg" width="100%" alt="contribution snake" />
+<div align="center">
+
+<img src="assets/github-contribution-grid-snake.svg" width="504" alt="sleeping contribution snake, coiled in a circle" />
+
+</div>
 
 *he naps six days a week and eats commits in his dreams.*
 
