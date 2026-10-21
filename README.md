@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/banner.svg" alt="a cozy pixel-art room at dusk: glowing monitor, a Mudkip plushie, a Sonic poster, fairy lights, a banana plant, and a Johannesburg sunset in the window" width="100%" />
+<img src="assets/banner.svg" alt="a cozy pixel-art room at dusk: glowing monitor, a Mudkip plushie, fairy lights, a bamboo palm, and a Johannesburg sunset in the window" width="100%" />
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=16&pause=1400&color=FFD97D&center=true&vCenter=true&width=640&lines=hi%2C+i%27m+george...;welcome+to+my+cozy+corner+of+the+internet;currently+studying+cybercrime+%26+international+law;built+with+python%2C+qt%2C+and+extra+banana" alt="typing" width="640" /></a>
 
@@ -57,7 +57,7 @@ i make small, cozy tools — the kind that feel like a warm mug on a cold night.
 
 <img src="assets/github-contribution-grid-snake.svg" width="100%" alt="contribution snake" />
 
-*he wakes up every monday, eats my commits, then goes back to sleep.*
+*he naps six days a week and eats commits in his dreams.*
 
 ---
 
