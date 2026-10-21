@@ -1,0 +1,21 @@
+name: "wake the contribution snake"
+on:
+  schedule:
+    - cron: "0 6 * * 1"  # every monday, 06:00 UTC
+  workflow_dispatch:
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: Platane/snk@v3
+        with:
+          github_user_name: setzor
+          outputs: |
+            assets/github-contribution-grid-snake.svg
+      - name: commit the snake
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: feed the contribution snake"
