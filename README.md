@@ -8,11 +8,11 @@
 
 **george stevenson** · johannesburg, south africa
 
-open-source tinkerer and LL.M. student in cybercrime & international law.
-i make small, cozy tools — the kind that feel like a warm mug on a cold night.
+open-source tinkerer, reader and LL.M. student in cybercrime & international law.
+i make small, useful tools, the cozy kind that feel like a warm mug on a cold night.
 
 > *"i myself am made entirely of flaws, stitched together with good intentions."* — augusten burroughs
-> *(basically the job description for pixel art, too.)*
+> *(kinda like real life pixel art)*
 
 </div>
 
@@ -23,10 +23,10 @@ i make small, cozy tools — the kind that feel like a warm mug on a cold night.
 | stat | value |
 | --- | --- |
 | ⚔️ class | cozy open-source gremlin |
-| 🧭 base camp | johannesburg, ZA (GMT+2) |
+| 🧭 base camp | joburg, ZA (GMT+2) |
 | 📚 side quest | LL.M. in cybercrime, cybersecurity & international law |
 | 🐕 companion | a very good dog |
-| 🍌 fuel | bananas — with extra banana |
+| 🍌 fuel | coffee, bananas and snapsticks |
 | 🛠️ toolkit | python · rust · qt/kde · linux |
 
 ---
@@ -35,7 +35,7 @@ i make small, cozy tools — the kind that feel like a warm mug on a cold night.
 
 | | project | about |
 | --- | --- | --- |
-| 🐀 | [**Packrat-Backup**](https://github.com/setzor/Packrat-Backup) | a KDE Plasma/Qt native backup app. the packrat hoards your files — somewhere safe, on a schedule. kinda like Déjà Dup, but Qt-er ;-) |
+| 🐀 | [**Packrat-Backup**](https://github.com/setzor/Packrat-Backup) | a KDE Plasma/Qt native backup app. the packrat hoards your files somewhere safe, on a schedule. kinda like Déjà Dup, but Qt-er |
 | 🍦 | [**scooper-cms**](https://github.com/setzor/scooper-cms) | a lightweight CMS for fun little news sites and cozy blogs. scoop, serve, repeat. |
 
 ---
@@ -75,6 +75,6 @@ i make small, cozy tools — the kind that feel like a warm mug on a cold night.
 
 <img src="assets/divider.svg" width="366" alt="pixel divider" />
 
-thanks for wandering by — the kettle's on. 🍌
+thanks for wandering by, the kettle's on ☕🍵🫖
 
 </div>
