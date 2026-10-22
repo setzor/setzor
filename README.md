@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/setzor_banner.jpg" alt="a cozy isometric pixel-art room: george in his hoodie coding at the computer, a bookshelf, and a very good sleeping dog" width="100%" />
+<img src="assets/animated_banner.gif" alt="a cozy isometric pixel-art room: george in his hoodie coding at the computer, a bookshelf, and a very good sleeping dog" width="100%" />
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Silkscreen&size=16&pause=1400&color=FFD97D&center=true&vCenter=true&width=640&lines=hi%2C+i%27m+george...;welcome+to+my+cozy+corner+of+the+internet;currently+studying+cybercrime+%26+international+law;built+with+python%2C+qt%2C+and+extra+banana" alt="typing" width="640" /></a>
 
