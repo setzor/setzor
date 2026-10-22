@@ -37,6 +37,7 @@ i make small, useful tools, the cozy kind that feel like a warm mug on a cold ni
 | --- | --- | --- |
 | 🐀 | [**Packrat-Backup**](https://github.com/setzor/Packrat-Backup) | a KDE Plasma/Qt native backup app. the packrat hoards your files somewhere safe, on a schedule. kinda like Déjà Dup, but Qt-er |
 | 🍦 | [**scooper-cms**](https://github.com/setzor/scooper-cms) | a lightweight CMS for fun little news sites and cozy blogs. scoop, serve, repeat. |
+| 🌾 | [**VeldNotes**](https://github.com/setzor/VeldNotes) | a cozy, local-first daily journaling app for Windows and Linux. your thoughts graze on the veld — offline, private, unhurried. |
 
 ---
 
